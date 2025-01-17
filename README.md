@@ -11,4 +11,4 @@ Explication Code :
 
 Lancer tests : 
 
-npm 
+    - npm run test
