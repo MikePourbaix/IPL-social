@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jasmine": "^5.5.0"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node src/main.js"
+  }
+}
