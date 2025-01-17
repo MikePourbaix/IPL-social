@@ -15,6 +15,11 @@ describe("Password Checker, check if the password pass several restrictions", ()
 
     it("should return false if the password does not contain a digit", () => {
         expect(isValidPassword('noDigit?')).toBe(false);
-        expect(isValidPassword('Digit1!!')).toBe(true);
+        expect(isValidPassword('2Digit!!')).toBe(true);
+    });
+
+    it("should return false if the password contains 'ipl'", () => {
+        expect(isValidPassword('3thersNoIpl?')).toBe(false);
+        expect(isValidPassword('3NoI-P-L-Here!')).toBe(true);
     });
 });
