@@ -2,7 +2,7 @@
 
 Mike Pourbaix, 
 
-    - mike.pourbaixdent.vinci.be
+    - mike.pourbaix@student.vinci.be
 
 GitHub : https://github.com/MikePourbaix/IPL-social.git
 
