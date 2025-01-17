@@ -13,7 +13,7 @@ Explication Code :
     Puis, la constante digitalPattern, idem mais pour les digit.
     Pour terminer, la constante iplPattern, idem mais pour la suite de caracteres : ipl.
 
-    Pour conclure, les tests effectuer apres chaque if de notre fonction avec les cas echouant et les cas de reussite pour que les tests soient efficaces.
+    Pour conclure, les tests effectuer apres chaque if de notre fonction avec les cas echouant et les cas de reussite pour que les tests soient au plus efficaces.
 
 
 Lancer tests : 
